@@ -1,12 +1,12 @@
+## App 
+
+https://luisquiiroz.github.io/shopping-cart/
+
 # shopping-cart
 
 Carrito de compras, utilizando useId, useReducer, useContext
 
 ![image](https://user-images.githubusercontent.com/93633867/228369876-7b677bb4-bc74-4bbd-be96-5a9337d8da54.png)
-
-## App gh-pages
-
-https://luisquiiroz.github.io/shopping-cart/
 
 ## Available Scripts
 
